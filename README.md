@@ -10,6 +10,10 @@ The PNG image with the alpha channel is the image includes the transparent backg
 
 Finally, I could find it. So I would like to introduce it. When this was useful for your situation, I'm glad.
 
+## Demo
+
+![](images/fig1.gif)
+
 ## Flow
 
 The flow for this method is as follows.
@@ -119,9 +123,7 @@ function myFunction() {
 
 ### 4. Testing.
 
-When above script is run, the following result is obtained. From this result situation, you can see that the created image has the alpha channel.
-
-![](images/fig1.gif)
+When above script is run, the situation shown in above demonstration video is obtained. From this demonstration, you can see that the created image has the alpha channel.
 
 ## Summary
 
